@@ -1,0 +1,7 @@
+.UserInfoInputs {
+  display: inline-flex;
+}
+
+.UserInfoInputs p {
+  margin-right: 5px;
+}
